@@ -1,0 +1,11 @@
+backup/
+build/
+.vs/
+bin/
+obj/
+_re/
+*.log
+*.user
+*.asm
+*.iso
+*.7z
